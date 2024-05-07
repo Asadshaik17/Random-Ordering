@@ -15,6 +15,7 @@ body {
   .input-container {
     margin-bottom: 20px;
     text-align: center;
+    color: white;
   }
   
   .input-container label {
@@ -25,10 +26,11 @@ body {
     width: 60px;
     padding: 8px;
     font-size: 16px;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 4px;
     text-align: center;
     background-color: rgb(96,96,96);
+    color: white;
   }
   
   button {
